@@ -1,0 +1,28 @@
+nav{
+    text-align: center;
+    margin-top: 15px;
+
+}
+nav li{
+    display: inline;
+    background-image: url(../img/patinha-preta.png);
+    background-repeat: no-repeat;
+    background-position: center right ;
+    padding-right: 27px;
+    cursor: pointer;
+    margin-right: 10px;
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+ nav a :hover{
+    color: cornflowerblue;
+ }
+
+ #itemContato{
+    background-image: none;
+    margin: 0;
+    padding: 0;
+ }

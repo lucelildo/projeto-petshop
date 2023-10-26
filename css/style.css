@@ -1,0 +1,12 @@
+@import'./footer.css';
+@import'./nav.css';
+@import'./img.css';
+@import'./header.css';
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
